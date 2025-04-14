@@ -1,2 +1,11 @@
 # CSFpager
 my project for CSF.
+
+gonna need 2 minikeyboard to put on the microntroller
+
+PROBLEM TO RESOLVE:
+- Need to buy a LoRa receiver-transmetor for the Arduino Board
+- How to link the keyboard to the board, what kind of input will it receive, need to translate to hardcoded maybe then to exadecimal
+- Code a program for sending it on the other board by LORA
+- Need to be able to not functiun when messages sended bot at the same time
+- Need to code an interface
