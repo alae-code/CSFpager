@@ -11,3 +11,4 @@ X Need to but 2 mini keyboard
 - Need to be able to not functiun when messages sended bot at the same time
 - Need to code an interface
 - Need to buy soldering tools and maybe an esp32 for reducing the size of the thing
+- Resolve dependecies and stuff about the arduino IDE to make it work with the UCA card
