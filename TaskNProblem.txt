@@ -10,4 +10,4 @@ X Need to but 2 mini keyboard
 - Code a program for sending it on the other board by LORA
 - Need to be able to not functiun when messages sended bot at the same time
 - Need to code an interface
-- Need to buy soldering tools and maybe an esp32 for reducing the size of the thing
+- Need to swap one of the card because the verison that support the atmega328PB doesnt work (getting crazy a bit)
