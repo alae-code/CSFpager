@@ -12,4 +12,4 @@ X Code a program for sending it on the other board by LORA
 - Need to code an interface
 X Need to swap one of the card because the verison that support the atmega328PB doesnt work (getting crazy a bit)
 X Also need to swap the 328P card that is compatible because the female pin on the scl and sda dont work much (old and used seems)
-
+- Do a read me and organize the git
