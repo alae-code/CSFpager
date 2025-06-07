@@ -4,7 +4,11 @@ Un projet de communication LoRa bidirectionnelle avec interface utilisateur util
 📋 Composants Requis :
 
 Carte microcontrôleur LoRa (ex: Arduino avec module LoRa SX1276/1278 ou carte custom UCA)
+
 M5Stack CardKB - Mini clavier I2C
+
 Écran LCD 16x2 avec convertisseur I2C
+
 Câbles de connexion
+
 Breadboard (optionnel)
