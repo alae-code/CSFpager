@@ -12,3 +12,5 @@ M5Stack CardKB - Mini clavier I2C
 Câbles de connexion
 
 Breadboard (optionnel)
+
+![Alt text](image/IMG_20250603_140701321_MFNR.jpg)
